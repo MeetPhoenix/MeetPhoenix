@@ -1,5 +1,7 @@
 Hey, This is Phoenix Shed-Okara
+
 Software Development Engineer in Test (SDET) Interswitch Group, Lagos
+
 Contact Details:
                   📲 Cell Number/WhatsApp:   +234 8165622926  
                   📨 Email:         nixokara@gmail.com
