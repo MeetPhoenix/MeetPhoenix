@@ -1,16 +1,21 @@
-### Hi there 👋
+Hey, This is Phoenix Shed-Okara
+Software Development Engineer in Test (SDET) Interswitch Group, Lagos
+Contact Details:
+                  📲 Cell Number/WhatsApp:   +234 8165622926  
+                  📨 Email:         nixokara@gmail.com
 
-<!--
-**MeetPhoenix/MeetPhoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experience in Software Testing, hands-on Manual & Automation testing using Selenium Java, API Automation Testing using Postman, Performance Testing using Apache JMeter, and Ability to use SQL Queries to retrieve or edit various information on the Database.
 
-Here are some ideas to get you started:
+✅ Technical Skills ✅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Automation Framework Design.
+🔹 Selenium WebDriver with Java and C
+🔹 Cypress, JS, Node JS, jasmine, mocha, Chai.
+🔹 TestNG, Maven, NPM.
+🔹 Version Control tools- GitHub,GitLab.
+🔹 Page Object Model with Page Factory and Data-Driven Concept.
+🔹 POSTMAN, RESTful API.
+🔹 Outstanding experience with manual testing using JIRA, Zephyr and Excel.
+
+ https://www.linkedin.com/in/phoenix-shed-okara-045753221/
+
